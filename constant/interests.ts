@@ -1,0 +1,18 @@
+export const INTEREST_OPTIONS = [
+  "coding",
+  "reading",
+  "chess",
+  "math",
+  "security",
+  "administration",
+  "design",
+  "writing",
+  "music",
+  "sports",
+  "travel",
+  "photography",
+  "science",
+  "cooking",
+  "gaming",
+  "fitness",
+] as const;
